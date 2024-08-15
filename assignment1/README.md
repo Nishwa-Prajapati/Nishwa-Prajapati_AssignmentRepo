@@ -5,7 +5,8 @@ Submitting Date: 02/08/2024
 Instructions
 Step 1 : Clone the repository
 
-git clone https://github.com/Nishwa-Prajapati/Nishwa-Prajapati_Assignment.git
+git clone https://github.com/Nishwa-Prajapati/Nishwa-Prajapati_AssignmentRepo.git
+
 Step 2 : run below command in you terminal.
 
 Assignment Level :
