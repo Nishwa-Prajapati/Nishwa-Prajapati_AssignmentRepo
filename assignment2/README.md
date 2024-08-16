@@ -24,6 +24,19 @@ Step 2 : run below command to run the contracts
 
 => Interact with the deployed contract using the Remix interface.
 
+# Codes:
+
+** Q1 : **
+   1. Hello World Contract
+Description:
+A simple contract that returns a fixed message, "Hello, World!".
+
+Input:
+None
+
+Output:
+Returns the string "Hello, World!".
+
 # Assignment Level :
 The assignment level for this task is: Medium
 
