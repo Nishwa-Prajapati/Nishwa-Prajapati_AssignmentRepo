@@ -46,7 +46,7 @@ Step 2 : run below command in you terminal.
 
 => The contract owner can check the balance at any time by calling the getBalance() function.
 
-**Input and Output**
+>**Input and Output**
 
 => Input: 1 Ether per participant.
 
