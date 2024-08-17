@@ -12,7 +12,7 @@ Step 2 : run below command in you terminal.
 
 # How to Deploy and Run the Contract
 
-**Step 1: Deploy the Contract**
+>**Step 1: Deploy the Contract**
 
 => Open Remix IDE.
 
@@ -26,7 +26,7 @@ Step 2 : run below command in you terminal.
 
 => Click "Deploy". The contract will be deployed, and the contract's address will be displayed in the "Deployed Contracts" section.
 
-**Step 2: Participate in the Lottery**
+>**Step 2: Participate in the Lottery**
 
 => To participate, copy the contract address and go to the "Deployed Contracts" section.
 
@@ -36,17 +36,17 @@ Step 2 : run below command in you terminal.
 
 => Repeat this step with at least two more participants.
 
-**Step 3: Pick a Winner**
+>**Step 3: Pick a Winner**
 
 => Once there are at least 3 participants, the contract owner can call the lotteryWinner() function.
 
 => The function will randomly select one of the participants as the winner and transfer all the Ether in the contract to them.
 
-**Step 4: Check the Contract Balance**
+>**Step 4: Check the Contract Balance**
 
 => The contract owner can check the balance at any time by calling the getBalance() function.
 
->**Input and Output**
+**Input and Output**
 
 => Input: 1 Ether per participant.
 
