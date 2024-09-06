@@ -70,6 +70,10 @@ This Solidity contract allows individuals to donate or transfer funds from their
 
 -Deploy the contract to a test network.
 
+# Assignment Level :
+The assignment level for this task is: Medium
 
+# Code Quality :
+Code quality is maintained throughout the assignment.
 
 
