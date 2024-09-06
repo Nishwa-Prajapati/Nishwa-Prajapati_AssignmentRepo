@@ -15,7 +15,7 @@ This repository contains three JavaScript code snippets and a Solidity smart con
 
 **1. Hash Generation in JavaScript**
 
-### Code 1: Simple Hash Generation
+>### Code 1: Simple Hash Generation
 
 This code generates an SHA-256 hash from an input string, starting from 0, and searches for a hash that begins with "00000".
 
@@ -25,7 +25,7 @@ This code generates an SHA-256 hash from an input string, starting from 0, and s
 
 -Continuously increments the input number until a hash with the desired prefix is found.
 
-### Code 2: Hash Generation with Custom Prefix
+>### Code 2: Hash Generation with Custom Prefix
 
 This code generates an SHA-256 hash by combining a fixed string ("nishwaprajapati01") with an incrementing number, and searches for a hash that begins with "00000".
 
@@ -34,7 +34,7 @@ This code generates an SHA-256 hash by combining a fixed string ("nishwaprajapat
 
 -It continues incrementing until the hash starts with the desired prefix.
 
-### Code 3: Transaction-Based Hash Generation
+>### Code 3: Transaction-Based Hash Generation
 
 This code generates a hash from a formatted transaction string and a number. The goal is to find a hash that begins with "00000".
 
@@ -45,12 +45,12 @@ This code generates a hash from a formatted transaction string and a number. The
 
 -Searches for a hash with the desired prefix.
 
-### code 4 : CryptoZombies Solidity Learning
+>### code 4 : CryptoZombies Solidity Learning
 
 **Screenshot from Lesson 1**
 Contains a screenshot (Q4.png) from the CryptoZombies lesson, showcasing the completion of Lesson 1 in Solidity programming.
 
-### code 5 : Donation Smart Contract
+>### code 5 : Donation Smart Contract
 
 This Solidity contract allows individuals to donate or transfer funds from their personal accounts to various recipients on the Ethereum blockchain.
 
