@@ -80,3 +80,9 @@ Assigns reward points to a member (owner-only).
 
 **redeemRewards(uint _amount):**
 Allows members to redeem their reward points.
+
+# Assignment Level :
+The assignment level for this task is: Medium
+
+# Code Quality :
+Code quality is maintained throughout the assignment.
