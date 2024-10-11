@@ -35,9 +35,11 @@ The caller becomes the owner of the asset.
 Emits an AssetCreated event.
 
 **getAsset(uint256 _assetId):**
+
 Retrieves the asset's details such as name, value, and current owner.
 
 **transferAssets(uint256 _assetId, address _to):**
+
 Allows the current owner of the asset to transfer ownership to another address.
 Emits an AssetTransferred event.
 
@@ -49,3 +51,32 @@ Restricts certain functions to only be called by the owner of a specific asset.
 ### Contract Owner
 
 The contract deployer is set as the owner of the contract.
+
+
+>## FitnessClubRewards Smart Contract
+
+The FitnessClubRewards contract allows a fitness club to manage reward points for its members. It provides functionality for the club owner to add members, assign rewards, and for members to redeem their accumulated rewards.
+
+### Key Features
+
+**Membership Management:** The owner can add and remove members.
+**Rewards System:**
+The owner can assign rewards to members.
+Members can check and redeem their rewards.
+
+### Functions
+
+**addMember(address _member):** 
+
+Adds a new member (owner-only).
+
+**deleteMember(address _member):**
+
+Removes an existing member (owner-only).
+
+**assignRewards(uint _amount, address _memberAddress):**
+
+Assigns reward points to a member (owner-only).
+
+**redeemRewards(uint _amount):**
+Allows members to redeem their reward points.
